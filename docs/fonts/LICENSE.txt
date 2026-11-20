@@ -1,0 +1,3 @@
+Fraunces (Undercase Type), DM Sans (Colophon Foundry, Jonny Pinhorn) and DM Mono (Colophon Foundry)
+are licensed under the SIL Open Font License, Version 1.1. https://openfontlicense.org
+Converted to WOFF2 unmodified from the Google Fonts releases.
